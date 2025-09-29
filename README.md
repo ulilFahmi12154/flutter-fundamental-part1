@@ -110,3 +110,8 @@
 **Langkah 2:** 
 - Image Widget.
 ![image_widget](images/39.png)
+
+### Praktikum 5: Menerapkan Widget Material Design dan iOS Cupertino
+**Langkah 1:** 
+- Cupertino Button dan Loading Bar. 
+<video controls src="assets/0929.mp4" title="Title"></video>
