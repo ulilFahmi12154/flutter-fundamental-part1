@@ -115,3 +115,9 @@
 **Langkah 1:** 
 - Cupertino Button dan Loading Bar. 
 ![cupertino_button](assets/40.gif)
+
+**Langkah 2** floating_action_button
+- Floating Action Button (FAB).
+![floating_action_button](assets/41.gif)
+
+
