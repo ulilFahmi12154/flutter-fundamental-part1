@@ -124,5 +124,8 @@
 - Scaffold Widget.
 ![scaffold_widget](assets/42.gif)
 
+**Langkah 4**
+- Dialog Widget
+![dialog_widget](assets/43.gif)
 
 
