@@ -114,4 +114,4 @@
 ### Praktikum 5: Menerapkan Widget Material Design dan iOS Cupertino
 **Langkah 1:** 
 - Cupertino Button dan Loading Bar. 
-<video controls src="assets/0929.mp4" title="Title"></video>
+![cupertino_button](assets/40.gif)
