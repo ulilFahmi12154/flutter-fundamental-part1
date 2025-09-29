@@ -132,4 +132,8 @@
 - Input dan Selection Widget.
 ![input_selection_widget](assets/44.gif)
 
+**Langkah 6**
+- Date and Time Pickers.
+![date_time_picker](assets/45.gif)
+
 
