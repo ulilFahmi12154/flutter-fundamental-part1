@@ -125,7 +125,11 @@
 ![scaffold_widget](assets/42.gif)
 
 **Langkah 4**
-- Dialog Widget
+- Dialog Widget.
 ![dialog_widget](assets/43.gif)
+
+**Langkah 5**
+- Input dan Selection Widget.
+![input_selection_widget](assets/44.gif)
 
 
